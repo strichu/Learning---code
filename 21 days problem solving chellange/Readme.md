@@ -1,11 +1,19 @@
-## 🚀 Features
+# 🧠 Problem Solving Repository
 
-- Feature 1
-- Feature 2
-- Feature 3
+This repository contains my solutions to various **programming and problem-solving challenges**.  
+The goal is to improve **logic building, algorithmic thinking, and coding skills** by solving problems regularly.
 
-## 🛠️ Tech Stack
+## 🚀 Topics Covered
+
+- Arrays & Strings
+- Loops & Conditions
+- Functions & Recursion
+- Searching & Sorting
+- Data Structures
+- Math & Logic Problems
+
+## 🛠️ Languages & Tools
 
 - JavaScript (ES6+)
-- Node.js / Browser
-- Any frameworks or libraries used (e.g. Express, React)
+- Node.js
+- Git & GitHub
