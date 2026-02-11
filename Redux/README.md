@@ -1,0 +1,2 @@
+- This repository is my complete Redux Toolkit learning journey — from fundamentals to advanced architecture patterns.
+- Built for deep understanding, real-world application, and long-term mastery. 
